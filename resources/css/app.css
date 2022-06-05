@@ -1,0 +1,29 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@screen 2xl {
+    html {
+        font-size: 100%;
+    }
+}
+@screen xl {
+    html {
+        font-size: 75%;
+    }
+}
+@screen lg {
+    html {
+        font-size: 62.5%;
+    }
+}
+@screen md {
+    html {
+        font-size: 56.25%;
+    }
+}
+@screen sm {
+    html {
+        font-size: 50%;
+    }
+}

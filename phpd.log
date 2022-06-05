@@ -1,0 +1,7 @@
+nohup: ignoring input
+[Wed Mar 30 05:48:57 2022] PHP 7.4.3 Development Server (http://localhost:9000) started
+[Wed Mar 30 05:49:03 2022] 127.0.0.1:59174 Accepted
+[Wed Mar 30 05:49:03 2022] 127.0.0.1:59176 Accepted
+[Wed Mar 30 05:49:03 2022] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[Wed Mar 30 05:49:03 2022] PHP Fatal error:  Unknown: Failed opening required 'bar.php' (include_path='.:/usr/share/php') in Unknown on line 0
+[Wed Mar 30 05:49:03 2022] 127.0.0.1:59174 Closing
